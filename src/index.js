@@ -6,13 +6,15 @@ import App3 from './App3';
 import App4 from 'App4';
 import App5 from 'App5';
 import App6 from 'App6';
+import App7 from 'App7';
+import App9 from 'App9';
 import TodoList from 'TodoList';
 import reportWebVitals from './reportWebVitals';
 import EpisodeList from 'EpisodeList';
 
 ReactDOM.render(
    <React.StrictMode>
-      <App6 />
+      <App9 />
       {/* <TodoList /> */}
       {/* <App /> */}
    </React.StrictMode>,
